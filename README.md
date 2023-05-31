@@ -12,7 +12,7 @@
 
 # Connect with me:
 
-## [<img src="https://cdn-icons-png.flaticon.com/512/300/300218.png" weight="50" height="50">](https://play.google.com/store/apps/developer?id=Jr.Developers&hl=en&gl=US)            [<img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" weight="50" height="50">](https://www.linkedin.com/in/yusuf-furkan-kılınç-94671722b/)
+## [<img src="https://cdn-icons-png.flaticon.com/512/300/300218.png" weight="50" height="50">](https://play.google.com/store/apps/developer?id=Jr.Developers&hl=en&gl=US)            [<img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" weight="50" height="50">](https://www.linkedin.com/in/yusuffurkankılınç/)
 
 
 #Languages and Tools:
