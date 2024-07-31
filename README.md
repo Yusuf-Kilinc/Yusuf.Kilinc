@@ -1,6 +1,6 @@
 # Hi everyone 👋, my name is Yusuf
 
-#### Game Developer
+#### Game Developer | .Net Developer
 
 #### I am a game developer. I develop projects on 2D, 3D mobile and pc platforms.
 
