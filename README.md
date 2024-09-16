@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yusuf furkan kılınç" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf furkan kılınç" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jr.developers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jr.developers" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yusuffurkankılınç" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuffurkankılınç" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@jr.developers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@jr.developers" height="30" width="40" /></a>
 <a href="https://discord.gg/Yusuf.Kilinc (ghosttt7327)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Yusuf.Kilinc (ghosttt7327)" height="30" width="40" /></a>
 </p>
 
