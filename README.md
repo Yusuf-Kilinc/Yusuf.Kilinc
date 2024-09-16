@@ -27,4 +27,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusuf-kilinc&" alt="yusuf-kilinc" /></p>
 
 
-![snake gif](https://github.com/Yusuf-Kilinc/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Yusuf-Kilinc/Yusuf-Kilinc/blob/output/github-contribution-grid-snake.gif)
