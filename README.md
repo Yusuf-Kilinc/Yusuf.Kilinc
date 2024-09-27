@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusuf-kilinc&label=Profile%20views&color=0e75b6&style=flat" alt="yusuf-kilinc" /> </p>
 
+- 🌱 I have good knowledge of Unity and C#
+  
 - 🌱 I’m currently learning **Unreal Engine, C++**
 
 - 📝 I regularly write articles on [https://www.oyungunlugu.com/author/yusuf/](https://www.oyungunlugu.com/author/yusuf/)
